@@ -1,0 +1,14 @@
+# Interfaz web
+gradio
+
+# Manejo de PDFs y tablas
+pdfplumber
+pandas
+openpyxl
+
+# Imágenes básicas (para pdf2image / OCR)
+pillow
+
+# OCR opcional (solo si vas a usar PDFs escaneados)
+pdf2image
+pytesseract
